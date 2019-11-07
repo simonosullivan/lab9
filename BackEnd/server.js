@@ -90,7 +90,6 @@ app.get('/api/movies', (req, res) => {
         res.json({movies:data});
     })
     
-    
     // const myMovies = [{
     //     "Title": "Avengers: Infinity War",
     //     "Year": "2018",
